@@ -6,7 +6,7 @@ def gameboard(a,b):
     total=a*2+1
     for i in range(total):
         if(i%2==0):
-                print(p*heightinp)
+                print(p*widthinp)
         else:
                 print(q*(widthinp+1))
 
